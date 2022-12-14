@@ -20,8 +20,7 @@ Transforming the open development of high performance visualization for the web
 * Shan He (@ heshan0131)
 * Xiaoji Chen (@Pessimistress)
 * Alberto Asuero (@alasarr)
-* Borja Muñoz (@borja-munoz)
-* Craig Kochis (@kochis)
+
 
 
 
