@@ -1,36 +1,42 @@
 # Open Visualization Collaboration Space
 
-The Open Visualization Collaboration Space “OpenVis” is a forum within the OpenJS Foundation to neutrally govern the most comprehensive and widely adopted visualization libraries based on JavaScript and WebGL.
+The Open Visualization Collaboration Space “OpenVis” is a forum within the OpenJS Foundation to neutrally govern comprehensive and widely adopted visualization libraries based on JavaScript and WebGL.
 
-The Open Visualization Collaboration Space is a forum within the OpenJS Foundation to neutrally govern the most comprehensive and widely adopted visualization libraries based on JavaScript and WebGL.
+Members of OpenVis help other developers, data scientists, and visualization specialists improve GPU-accelerated visualization software. We do this through an open governance model that encourages participation and technical contribution, and by providing a framework for long term stewardship by a variety of stakeholders. Check out [our membership page](https://github.com/openjs-foundation/openvis-collab-space/blob/main/join.md) if you're interested in becoming a member.
 
-Open Visualization Space helps developers, data scientists, visualization specialists and engineers to improve development of high performance GPU visualization solutions. We do this through an open governance model that encourages participation and technical contribution, and by providing a framework for long term stewardship by a variety of stakeholders.
+We welcome contributors and collaborators to get involved through OpenJS at any time. Learn more on [our contribution page](https://github.com/openjs-foundation/openvis-collab-space/blob/main/contribute.md). Contributors may also participate in the OpenJS Foundation’s technical governance body, the Cross Project Council, regardless of membership status.
 
-Open Visualization is a part of the OpenJS Foundation. We welcome contributors and collaborators to get involved through OpenJS at any time. Contributors may participate in the OpenJS Foundation’s technical governance body, the Cross Project Council, regardless of membership status. 
+## Mission Statement
 
+Openly develop transformative, high performance visualization frameworks for the web.
 
-### Mission Statement
+## This Repository
+The purpose of this repository is to provide a central place for coordination and documentation around visualization practices and resources for the JavaScript community.
 
-Transforming the open development of high performance visualization for the web
+### Pages
+- [Meeting Notes](https://github.com/openjs-foundation/openvis-collab-space/tree/main/meetings)
+- [Media](https://github.com/openjs-foundation/openvis-collab-space/blob/main/media.md)
+- [Ways to Contribute](https://github.com/openjs-foundation/openvis-collab-space/blob/main/contribute.md)
+- [Membership](https://github.com/openjs-foundation/openvis-collab-space/blob/main/join.md)
+- [Best Practices](https://github.com/openjs-foundation/openvis-collab-space/blob/main/best-practices.md)
 
-### Collaboration Space Members
+Interested parties can also [join our #open-visualization channel](https://communityinviter.com/apps/js-foundation/join-openjs-foundation-on-slack) on Slack.
 
-* Chris Gervang (@chrisgervang)
-* Ib Green (@ibgreen)
-* Shan He (@ heshan0131)
-* Xiaoji Chen (@Pessimistress)
-* Alberto Asuero (@alasarr)
+## Collaboration Space Members
 
+* Chris Gervang ([@chrisgervang](https://github.com/chrisgervang))
+* Ib Green ([@ibgreen](https://github.com/ibgreen))
+* Shan He ([@heshan0131](https://github.com/heshan0131))
+* Xiaoji Chen ([@Pessimistress](https://github.com/Pessimistress))
+* Alberto Asuero ([@alasarr](https://github.com/alasarr))
 
-
-
-### In-Flight Intiatives
+## In-Flight Intiatives
 
 TBD
 
 
-### Links & Resources
+## Links & Resources
 
-* [Kepler.gl](http://kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
-* [Vis.gl](http://Vis.gl) - Vis.gl is a suite of composable, interoperable open source geospatial visualization frameworks centered around deck.gl.
-* [deck.gl](https://deck.gl/) - deck.gl is a WebGL-powered framework for visual exploratory data analysis of large datasets.
+* [kepler.gl](http://kepler.gl): Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
+* [vis.gl](http://Vis.gl): Vis.gl is a suite of composable, interoperable open source geospatial visualization frameworks centered around deck.gl.
+* [deck.gl](https://deck.gl/): deck.gl is a WebGL-powered framework for visual exploratory data analysis of large datasets.
